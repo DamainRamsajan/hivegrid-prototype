@@ -1,7 +1,5 @@
 # HiveMind Architecture Diagrams
 
-Below are the generic HiveMind diagrams (auto-generated, labeled sequentially).
-
 ## Diagram 1
 ![Diagram 1](diagrams/deepseek_mermaid_20250915_f04452.png)
 
@@ -28,15 +26,3 @@ Below are the generic HiveMind diagrams (auto-generated, labeled sequentially).
 
 ## Diagram 9
 ![Diagram 9](diagrams/deepseek_mermaid_20250915_9a1dc2.png)
-
-## Diagram 10
-![Diagram 10](diagrams/deepseek_mermaid_20250915_9ff779.png)
-
-## Diagram 11
-![Diagram 11](diagrams/deepseek_mermaid_20250915_10ad19.png)
-
-## Diagram 12
-![Diagram 12](diagrams/deepseek_mermaid_20250915_47c76b.png)
-
-## Diagram 13
-![Diagram 13](diagrams/deepseek_mermaid_20250915_52ffbb.png)
